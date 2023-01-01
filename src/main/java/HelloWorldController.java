@@ -1,5 +1,5 @@
 /**
- * @author cwy2022 
+ * @author cwy2022
  */
 public class HelloWorldController {
     public static void main(String[] args) {
